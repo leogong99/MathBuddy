@@ -1,0 +1,4 @@
+rename to .env
+
+OPENAI_API_KEY="you_api_key"
+PORT=3000
